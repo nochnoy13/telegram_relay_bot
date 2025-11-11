@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
 # 🔐 Твой токен
-TOKEN = "ВАШ_НОВЫЙ_ТОКЕН"
+TOKEN = "8104585636:AAGmICEfXKyaYnz9l2zFi7ovQ3pfsP4tmag"
 
 # 📥 Группа, где бот ищет сообщения
 SOURCE_CHAT_ID = -1001946191112  # группа-источник
