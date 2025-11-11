@@ -11,7 +11,7 @@ SOURCE_CHAT_ID = -1001946191112  # группа-источник
 TARGET_CHAT_ID = -1001984134879  # группа-получатель
 
 # 🎯 Фраза для поиска
-TARGET_PHRASE = "Мы собрали все предложения по заявке на оценку"
+TARGET_PHRASE = "Заявка на оценку имущества"
 
 async def check_messages(update: Update, context: ContextTypes.DEFAULT_TYPE):
     message = update.message
